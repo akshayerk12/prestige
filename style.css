@@ -1,0 +1,73 @@
+.logo{
+    height: 3rem;
+}
+.search-bar{
+    border-radius: 20px;
+    padding: 1;
+}
+.navbar-text {
+    color: black;
+}
+.navbar{
+    z-index: 100;
+}
+
+.card{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.title-font{
+    align-items: center;
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.container-button{
+    align-items: center;
+}
+.button-last{
+    padding: 10px;
+    background-color: white;
+    color: rgb(233, 83, 13);
+    border: solid;
+    border-color: red;
+}
+.button-last:hover{
+    background-color: red;
+}
+.last-part{
+    background-color: rgb(47, 53, 53);
+    
+ 
+}
+.youtube{
+    width: 100%;
+    height: 100%;
+}
+@media(max-width:992px){
+    .tab-color{
+        background-color: rgb(210, 214, 213);
+        
+    }
+    .nav-link{
+        margin-left: 5px;
+    }
+    
+}
+@media(max-width:576px){
+    .prestige{
+        padding-left: 120px;
+    }
+    .prestige-two{
+        padding-left:60px;
+    }
+   
+}
+@media(max-width:449px){
+    .prestige{
+        padding-left: 60px;
+    }
+    .prestige-two{
+        padding-left:60px;
+    }
+
+}
